@@ -1,4 +1,5 @@
 # flipClock
+[文章連結](https://zhuanlan.zhihu.com/p/93519427)
 翻牌效果时钟的演示，包含原生JavaScript、Vue、React三种实现方式。
 
 本Demo详细讲解请关注我的微信公众号，查阅文章《干货满满!如何优雅简洁地实现时钟翻牌器(支持JS/Vue/React)》
